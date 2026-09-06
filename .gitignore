@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+
+veritas.db
+
+uploads/
+
+.env
+.venv/
+venv/
